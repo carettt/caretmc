@@ -1,0 +1,19 @@
+{
+  "name": "caretmc",
+  "version": "1.0.0",
+  "description": "A library to make Minecraft datapacks with Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "minecraft",
+    "datapack"
+  ],
+  "author": "caret_",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.5",
+    "typescript": "^4.7.4"
+  }
+}
